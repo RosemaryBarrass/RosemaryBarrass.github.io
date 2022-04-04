@@ -10,7 +10,7 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 header {
-  background-color: #D5CCFF;
+  background-color: #504D60;
   padding: 30px;
   text-align: center;
   font-size: 35px;
@@ -21,7 +21,7 @@ nav {
   float: left;
   width: 30%;
   height: auto;
-  background: #504D60;
+  background: #D5CCFF;
   padding: 20px;
   color: white;
 }
@@ -37,7 +37,8 @@ nav {
 <body>
   
 <header>
-  <h1>Website Header</h1>
+  <h1>Rosemary Barrass</h1>
+  <h2>Incoming PhD Student in Operations Research </h2>
 </header>
 
 <nav>
