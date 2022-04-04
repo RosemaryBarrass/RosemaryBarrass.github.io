@@ -10,7 +10,7 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 header {
-  background-color: #504D60;
+  background-color: #D5CCFF;
   padding: 30px;
   text-align: center;
   font-size: 35px;
@@ -21,7 +21,7 @@ nav {
   float: left;
   width: 30%;
   height: auto;
-  background: #D5CCFF;
+  background: #504D60;
   padding: 20px;
   color: white;
 }
@@ -37,15 +37,15 @@ nav {
 <body>
   
 <header>
-  <h1>Hello World</h1>
+  <h1>Website Header</h1>
 </header>
 
 <nav>
-  <p> <a href= "otherpage.html"> Other Page </a> </p>
+  <p> <a href= "index.html"> Main Page </a> </p>
 </nav>
  
 <post>
-  <p>I'm hosted with GitHub Pages.</p>
+  <p>This is a test of page links.</p>
 </post>
   
 </body>

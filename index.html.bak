@@ -41,7 +41,7 @@ nav {
 </header>
 
 <nav>
-  <p> This is a test. </p>
+  <p> <a href= "otherpage.html"> Other Page </a> </p>
 </nav>
  
 <post>

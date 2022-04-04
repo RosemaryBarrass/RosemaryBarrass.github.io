@@ -41,11 +41,11 @@ nav {
 </header>
 
 <nav>
-  <p> <a href= "index.html"> Main Page </a> </p>
+  <p> <a href= "otherpage.html"> Other Page </a> </p>
 </nav>
  
 <post>
-  <p>This is a test of page links.</p>
+  <p>Main Text.</p>
 </post>
   
 </body>
